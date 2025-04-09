@@ -18,3 +18,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan-Pandey1&" alt="Pawan-Pandey1" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pawan-Pandey1&show_icons=true&locale=en&layout=compact" alt="Pawan-Pandey1" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pawan-Pandey1" alt="Pawan-Pandey1" /></a></p>
+![snake gif](https://github.com/Pawan-Pandey1/Pawan-Pandey1/blob/output/github-snake-dark.svg)
